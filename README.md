@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-- 🔭 I’m currently working on deep dive into React
+- 🔭 I’m currently working on several cool React projects
 - 🌱 I’m currently learning algoritms and Python
 - 👯 I’m looking to collaborate on interesting and meaningful projects especially if it's about diabets management
 
@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 -->
 
 
-## Connect with me
+### Connect with me
+
+[![linkedin30](https://user-images.githubusercontent.com/41549193/105802669-4b9d5280-5f61-11eb-8960-a924484caacf.jpeg)][1]
+
+[1]: https://www.linkedin.com/in/svitlana-zaster-77a9a06b/
+[2]: https://twitter.com/szaster
 
 [![linkedin](https://www.linkedin.com/in/svitlana-zaster-77a9a06b/)]
