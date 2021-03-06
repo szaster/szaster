@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on several cool React projects
 - 🌱 I’m currently learning algoritms and Python
 - 📚 I'm currently reading a book on design elements and color theory
-- 👯 🦄 I’m looking to collaborate on interesting and meaningful projects. Especially if it's about diabets management
+- 👯 🦄 I’m looking to collaborate on interesting and meaningful projects. I'm passionate about diabets management, nutrition, health, parenting & healthy living! 
 - 🎧 I like listening to dev podcasts when I am not coding
 - 🤖 💻 🔤 ABC: Always Be Coding.
 - 🥽 I love science, and teaching science
