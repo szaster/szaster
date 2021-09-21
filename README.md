@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on several cool React projects
-- 🌱 🦄 I’m currently learning algoritms and Python, thinking to dive into data science to review and learn the newest tools to combine with, and enhance my web dev journey 
-- 📚 I'm currently reading a book on design elements and color theory
+- 🔭 I’m working on several cool React projects
+- 🌱 🦄 I’m learning algoritms and Python, thinking to dive into data science to review and learn the newest tools to combine with, and enhance my web dev journey 
+- 📚 I'm reading a book on design elements and color theory
 - 👯 🦄 I’m looking to collaborate on interesting and meaningful projects. I'm passionate about apps on diabetes management, nutrition, health, parenting & healthy living! 
 - 🎧 I like listening to dev podcasts when I am not coding
 - 🤖 💻 🔤 ABC: Always Be Coding.
